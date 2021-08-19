@@ -1,0 +1,13 @@
+{
+  "name": "cldr-segments-modern",
+  "version": "39.0.0",
+  "dependencies": {
+    "cldr-core": "39.0.0"
+  },
+  "main": "segments/**/*.json",
+  "ignore": [
+    ".gitattributes",
+    "README.md"
+  ],
+  "license": "Unicode-DFS-2016"
+}
